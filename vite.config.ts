@@ -10,7 +10,7 @@ export default defineConfig(({ mode }) => {
       // *** CONFIGURAÇÃO CRÍTICA PARA GITHUB PAGES ***
       // Define o subdiretório do repositório para carregar corretamente os assets (JS/CSS).
       // Isso é crucial porque o GitHub Pages hospeda o site em "seudominio.github.io/ronaldo-camara-portfolio/"
-      base: '/ronaldo-camara-portfolio/', 
+      base: '/ronaldo-camara/', 
       // ----------------------------------------------------------------------
       
       server: {
